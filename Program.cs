@@ -56,7 +56,7 @@
 
 
 
-class Program {
+/* class Program {
 static void Main (string[] args){
     // Exemplo de Matriz
 
@@ -111,5 +111,28 @@ static void Main (string[] args){
          return Result;
     }
 }
+} */
 
+class Program {
+
+static void procSoma(int a, int b){
+    int S;
+    S = a + b;
+    Console.WriteLine($"A soma entre {a} e {b} = {S}");
+}
+
+static int funcSoma(int a, int b){
+    int S;
+    S = a + b;
+    return S;
+}
+
+public static void Main (string[] args){
+    int v1 = 12, v2 = 6;
+
+    procSoma(v1, v2);
+
+    Console.WriteLine($"{v1} + {v2} = {funcSoma(v1, v2)}");
+
+}
 }

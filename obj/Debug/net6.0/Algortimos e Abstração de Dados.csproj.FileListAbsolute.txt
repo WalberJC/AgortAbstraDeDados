@@ -13,3 +13,18 @@ C:\Users\Walber\Desktop\Programação\Algortimos e Abstração de Dados\obj\Debu
 C:\Users\Walber\Desktop\Programação\Algortimos e Abstração de Dados\obj\Debug\net6.0\Algortimos e Abstração de Dados.pdb
 C:\Users\Walber\Desktop\Programação\Algortimos e Abstração de Dados\obj\Debug\net6.0\Algortimos e Abstração de Dados.genruntimeconfig.cache
 C:\Users\Walber\Desktop\Programação\Algortimos e Abstração de Dados\obj\Debug\net6.0\ref\Algortimos e Abstração de Dados.dll
+C:\Users\Walber\OneDrive\Documentos\GitHub\AgortAbstraDeDados\bin\Debug\net6.0\Algortimos e Abstração de Dados.exe
+C:\Users\Walber\OneDrive\Documentos\GitHub\AgortAbstraDeDados\bin\Debug\net6.0\Algortimos e Abstração de Dados.deps.json
+C:\Users\Walber\OneDrive\Documentos\GitHub\AgortAbstraDeDados\bin\Debug\net6.0\Algortimos e Abstração de Dados.runtimeconfig.json
+C:\Users\Walber\OneDrive\Documentos\GitHub\AgortAbstraDeDados\bin\Debug\net6.0\Algortimos e Abstração de Dados.dll
+C:\Users\Walber\OneDrive\Documentos\GitHub\AgortAbstraDeDados\bin\Debug\net6.0\Algortimos e Abstração de Dados.pdb
+C:\Users\Walber\OneDrive\Documentos\GitHub\AgortAbstraDeDados\obj\Debug\net6.0\Algortimos e Abstração de Dados.csproj.AssemblyReference.cache
+C:\Users\Walber\OneDrive\Documentos\GitHub\AgortAbstraDeDados\obj\Debug\net6.0\Algortimos e Abstração de Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walber\OneDrive\Documentos\GitHub\AgortAbstraDeDados\obj\Debug\net6.0\Algortimos e Abstração de Dados.AssemblyInfoInputs.cache
+C:\Users\Walber\OneDrive\Documentos\GitHub\AgortAbstraDeDados\obj\Debug\net6.0\Algortimos e Abstração de Dados.AssemblyInfo.cs
+C:\Users\Walber\OneDrive\Documentos\GitHub\AgortAbstraDeDados\obj\Debug\net6.0\Algortimos e Abstração de Dados.csproj.CoreCompileInputs.cache
+C:\Users\Walber\OneDrive\Documentos\GitHub\AgortAbstraDeDados\obj\Debug\net6.0\Algortimos e Abstração de Dados.dll
+C:\Users\Walber\OneDrive\Documentos\GitHub\AgortAbstraDeDados\obj\Debug\net6.0\refint\Algortimos e Abstração de Dados.dll
+C:\Users\Walber\OneDrive\Documentos\GitHub\AgortAbstraDeDados\obj\Debug\net6.0\Algortimos e Abstração de Dados.pdb
+C:\Users\Walber\OneDrive\Documentos\GitHub\AgortAbstraDeDados\obj\Debug\net6.0\Algortimos e Abstração de Dados.genruntimeconfig.cache
+C:\Users\Walber\OneDrive\Documentos\GitHub\AgortAbstraDeDados\obj\Debug\net6.0\ref\Algortimos e Abstração de Dados.dll

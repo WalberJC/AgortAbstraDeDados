@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Walber\\Desktop\\Programação\\Algortimos e Abstração de Dados\\Algortimos e Abstração de Dados.csproj",
+      "projectUniqueName": "C:\\Users\\Walber\\OneDrive\\Documentos\\GitHub\\AgortAbstraDeDados\\Algortimos e Abstração de Dados.csproj",
       "projectName": "Algortimos e Abstração de Dados",
-      "projectPath": "C:\\Users\\Walber\\Desktop\\Programação\\Algortimos e Abstração de Dados\\Algortimos e Abstração de Dados.csproj",
+      "projectPath": "C:\\Users\\Walber\\OneDrive\\Documentos\\GitHub\\AgortAbstraDeDados\\Algortimos e Abstração de Dados.csproj",
       "packagesPath": "C:\\Users\\Walber\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Walber\\Desktop\\Programação\\Algortimos e Abstração de Dados\\obj\\",
+      "outputPath": "C:\\Users\\Walber\\OneDrive\\Documentos\\GitHub\\AgortAbstraDeDados\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Walber\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
